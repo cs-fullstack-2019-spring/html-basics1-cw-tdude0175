@@ -8,3 +8,5 @@ Create a site about Memphis using it's wikipedia page. Separate at least 3 secti
 
 ### Problem 3
 Create a site about yourself. Include a link to your email address so people can click on it to ask you additional questions. Use correct page structure to highlight make the page look more professional. Make a new page about your favorite sports team (you can use the one from your in-class work) and link to the sports team in your site about yourself.
+
+<strong>Note:</strong> Look at this link for proper page structure: https://learn.shayhowe.com/html-css/getting-to-know-html/#building-structure
