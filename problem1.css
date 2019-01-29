@@ -1,0 +1,14 @@
+.makeThisBlue {
+    color: blue;
+}
+/*color can be used either string or #int*/
+.test
+{
+    color: #21258d;
+    font-size: 15px;
+}
+/*need to use font-size*/
+#Memphis\(song\)
+{
+    color: red;
+}
