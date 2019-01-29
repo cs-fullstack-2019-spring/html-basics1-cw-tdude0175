@@ -1,5 +1,7 @@
 # html-basics1-cw
 
+### Note: For all problems use the following tags: a, h1, h3, p, strong, em. For CSS use at least one tag, class, and id selector
+
 ### Problem 1
 Create a site that welcomes people to CodeCrew with an h1 tag and a sentence with a paragraph tag telling them about the school. Link a css page to change the color of the sentence to blue.
 
