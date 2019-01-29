@@ -1,0 +1,17 @@
+.makeThisGreen{
+    color: green;
+}
+
+.makeThisBlue{
+    color: darkblue;
+}
+
+.makeThisBiggerAndBlue{
+    font-size: 34px;
+    color: royalblue;
+}
+
+#makeThisSmall
+{
+    font-size: 10px;
+}
